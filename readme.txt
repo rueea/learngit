@@ -6,3 +6,5 @@ Git creat a new branch named dev.
 Git creat a new branch named feature1
 Git modified in dev brach 1
 Git fix bug01 
+Git modified in dev branch 2
+ 
